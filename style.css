@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #0f172a, #1e293b);
+  color: #e5e7eb;
+}
+
+.app {
+  max-width: 420px;
+  margin: auto;
+  padding: 18px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.logo {
+  font-size: 30px;
+}
+
+h1 {
+  margin: 6px 0 2px;
+}
+
+.subtitle {
+  font-size: 13px;
+  color: #94a3b8;
+}
+
+.status {
+  background: #020617;
+  border-left: 4px solid #38bdf8;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 14px;
+  font-size: 14px;
+}
+
+.card {
+  background: #020617;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 14px;
+}
+
+.main {
+  text-align: center;
+}
+
+.label {
+  font-size: 13px;
+  color: #94a3b8;
+}
+
+.main h2 {
+  font-size: 40px;
+  margin: 6px 0 0;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 0;
+}
+
+.advisory h3 {
+  margin-top: 0;
+  font-size: 16px;
+}
+
+footer {
+  font-size: 11px;
+  color: #64748b;
+  text-align: center;
+  margin-top: 10px;
+}

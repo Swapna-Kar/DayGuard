@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DayGuard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="app">
+
+    <header>
+      <div class="logo">🛡️</div>
+      <h1>DayGuard</h1>
+      <p class="subtitle">
+        Winter daylight & visibility safety advisor
+      </p>
+    </header>
+
+    <section class="status" id="statusBox">
+      Checking today’s conditions…
+    </section>
+
+    <section class="card main">
+      <p class="label">Current Temperature</p>
+      <h2 id="temp">-- °C</h2>
+    </section>
+
+    <section class="card">
+      <div class="row">🌅 Sunrise <span id="sunrise">--</span></div>
+      <div class="row">🌇 Sunset <span id="sunset">--</span></div>
+      <div class="row">☀️ Daylight <span id="daylight">--</span></div>
+    </section>
+
+    <section class="card advisory">
+      <h3>🧠 Health Advisory</h3>
+      <p id="healthMsg">Analyzing sunlight exposure…</p>
+    </section>
+
+    <section class="card advisory">
+      <h3>🌫️ Visibility Advisory</h3>
+      <p id="fogMsg">Checking fog & cloud conditions…</p>
+    </section>
+
+    <footer>
+      *Advisories are risk estimations, not medical or traffic guarantees.
+    </footer>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
