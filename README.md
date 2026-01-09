@@ -67,7 +67,7 @@ DayGuard analyzes real-time weather and astronomical data to calculate daylight 
 
 - [Demo Video](https://www.youtube.com)
 <br>
-Live MVP : https://swapna-kar.github.io/DayGuard/
+  Live MVP : https://swapna-kar.github.io/DayGuard/
 
 
 
