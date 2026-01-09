@@ -65,10 +65,10 @@ DayGuard analyzes real-time weather and astronomical data to calculate daylight 
 
 ## 📽️ Demo
 
-- [Demo Video](https://www.youtube.com)
+- [Demo Video](https://drive.google.com/file/d/1FlGWGmBZCzcKS07TpxpUuwg_cjJReDFF/view?usp=sharing)
+<br>
 <br>
   Live MVP : https://swapna-kar.github.io/DayGuard/
-
 
 
 ## 📂 GitHub Repository
@@ -81,10 +81,12 @@ Feel free to explore, fork, and contribute.
 Advisories are risk estimations only and should not be treated as medical or traffic guarantees.
 
 ## 🧑‍💻 Team member
-[Swapna Kar](https://github.com/) (Tech Lead)
+[Swapna Kar](https://github.com/Swapna-Kar) (Tech Lead)
 <br>
-[Srabana Rana](https://github.com/)
+[Srabana Rana](https://github.com/srabanariot2024-beep)
 <br>
 [Sathi Seth](https://github.com/Sathi-Seth)
+<br>
+[Anamika Sahu](https://github.com/developer-anamikas)
 
 
